@@ -2,7 +2,6 @@
 // Anthony Hackman
 
 import java.util.Scanner;
-
 import SortMethods.*;
 
 public class Main {

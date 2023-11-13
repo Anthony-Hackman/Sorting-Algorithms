@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SortingApp"
+        },
+        {
+            "type": "java",
             "request": "attach",
             "name": "Attach by Process ID",
             "processId": "${command:PickJavaProcess}"
